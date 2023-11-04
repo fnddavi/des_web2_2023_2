@@ -1,2 +1,2 @@
-# des_web2_2023_2
-Desenvolvimento Web 2 com o professora Arley
+# Desinvolvimento Web II
+Aulas de Desinvolvimento Web II, 2o semestre de 2023, com o professora Arley;
